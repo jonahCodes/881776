@@ -49366,8 +49366,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\aquin\Workspace\php\blogv2\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\aquin\Workspace\php\blogv2\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Maviael Zabaleta\Workspace\php\881776\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Maviael Zabaleta\Workspace\php\881776\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

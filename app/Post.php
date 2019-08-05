@@ -6,10 +6,15 @@ use Illuminate\Database\Eloquent\Model;
 
 class Post extends Model
 {
-    // Table Name 
+    // Table Name
     protected $table = 'posts';
     //Primary keyfield
     public $primaryKey = 'id';
     //Timestamps
     public $timestamps = true;
+
+    public function user(){
+        return $this->belongsTo('App\User');
+    }
+
 }
