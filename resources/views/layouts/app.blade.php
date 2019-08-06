@@ -25,7 +25,7 @@
             font-family: 'Nunito', sans-serif;
             font-weight: 200;
             height: 100vh;
-            margin: 0;
+            margin-bottom: 500px;
         }
 
 
